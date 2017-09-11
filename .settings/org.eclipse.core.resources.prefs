@@ -1,2 +1,4 @@
 eclipse.preferences.version=1
 encoding//factory/donut.json=UTF-8
+encoding//interpreter/interpreter.py=utf-8
+encoding//learn_command/learn.py=utf-8

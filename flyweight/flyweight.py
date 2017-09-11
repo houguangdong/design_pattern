@@ -1,9 +1,10 @@
 # -*-coding:utf-8-*-
 '''
-Created on 2017年7月19日
+Created on 7/19/2017
 
 @author: houguangdong
 '''
+
 import random
 from enum import Enum
 
